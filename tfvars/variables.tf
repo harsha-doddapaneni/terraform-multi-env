@@ -18,7 +18,7 @@ variable "common_tags" {
 }
 
 variable "tags" {
-    type = map
+  type = map
 }
 
 variable "environment" {
